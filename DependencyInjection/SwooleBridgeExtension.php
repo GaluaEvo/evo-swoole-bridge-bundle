@@ -44,7 +44,7 @@ class SwooleBridgeExtension extends Extension
      *
      * @return string The handler service id
      */
-    private function registerHandler($handlerKey, array $handlerInfo, ContainerBuilder $container)
+    private function registerHandler($handlerKey, array $handlerInfo, ContainerBuilder $container): string
     {
         $handlerId = 'swoole_bridge.handler.' . $handlerKey;
 
@@ -54,7 +54,7 @@ class SwooleBridgeExtension extends Extension
     /**
      * {@inheritDoc}
      */
-    public function getAlias()
+    public function getAlias(): string
     {
         return self::ALIAS;
     }
