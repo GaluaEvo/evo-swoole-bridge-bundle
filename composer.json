@@ -10,6 +10,13 @@
         }
     ],
     "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/galuaevo/evo-swoole-bridge"
+        }
+    ],
+
     "require": {
         "php": "^7.2|^8.0",
         "symfony/framework-bundle": "^3.0|^4.0|^5.0|^6.0",
