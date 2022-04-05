@@ -1,5 +1,5 @@
 {
-    "name": "insidestyles/swoole-bridge-bundle",
+    "name": "galuaevo/evo-swoole-bridge-bundle",
     "description": "Swoole Bridge For Php Frameworks",
     "type": "symfony-bundle",
     "license": "MIT",
