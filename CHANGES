@@ -1,0 +1,47 @@
+Version 1.1.1:
+ - Merge pull request #4 from Edwolfbear/master
+ - updated for symfony 5
+
+Version 1.1.0:
+ - update composer for symfony 5
+
+Version 1.0.0:
+ - fix Invalid stream reference provided
+ - Update README.md
+ - Merge pull request #2 from insidestyles/fix/missing_command_base_class
+ - extend base Symfony Command class
+
+Version 0.4.1:
+ - doc change
+ - Merge pull request #1 from dzikismigol/master
+ - add CLI command tag
+ - use DI in favor of injecting container in CLI command
+ - fx
+ - update doc
+ - example doc for handle mysql server has run away
+ - example doc for handle mysql server has run away
+ - Update README.md
+
+Version 0.4.0:
+
+
+Version 0.3.3:
+ - change type
+
+Version 0.3.2:
+ - allow contrib
+
+Version 0.3.1:
+ - revert optional log
+
+Version 0.3.0:
+ - require logger
+
+Version 0.2.0:
+ - update swoole-bridge 0.3
+ - update readme
+
+Version 0.1.0
+ - Init
+ - Initial commit
+
